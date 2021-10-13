@@ -1,0 +1,8 @@
+package test;
+
+public class DuplicatesandFrequency {
+	
+	
+	int[] arr= new int[5];
+
+}
